@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Phillipines</h3>
 <img  align="right" alt="coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-- 🔭 I’m currently working on [arcade land as moderator](https://arcade.inc/)
+- 🔭 I’m currently student on [CvSu]
 
 - 🌱 I’m currently learning **Js Ts React Vue and more**
 
