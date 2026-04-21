@@ -67,9 +67,9 @@ A comprehensive multi-role system featuring:
 - **PHP/PDO** - Database interactions, session management
 - **RESTful API Design** - Clean, scalable endpoints
 
-### AI & API Integration
+### AI, Automation & API Integration
 
-<table>
+<table align="left">
   <tr>
     <td align="center">
       <a href="https://openrouter.ai/" target="_blank" rel="noreferrer">
@@ -81,18 +81,33 @@ A comprehensive multi-role system featuring:
         <img src="https://avatars.githubusercontent.com/u/74888687?s=200&v=4" alt="Groq" width="50" height="50" />
       </a>
     </td>
+    <td align="center">
+      <a href="https://n8n.io/" target="_blank" rel="noreferrer">
+        <img src="https://n8n.io/favicon.ico" alt="n8n" width="50" height="50" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.gohighlevel.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.brandfetch.io/idK-hvK7Lv/w/200/h/200/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1692001846848" alt="GoHighLevel" width="50" height="50" />
+      </a>
+    </td>
   </tr>
 </table>
 
-**Current API Arsenal:**
+<br clear="left"/>
+
+**Current API & Automation Arsenal:**
 - 🤖 **OpenRouter API** - Multi-model AI routing
 - 💻 **OpenCode API** - AI-powered code assistance
 - ⚡ **Groq API** - Ultra-fast LLM inference
-- 🔧 **RESTful APIs** - Custom backend integrations
+- 🔧 **n8n** - Open-source workflow automation with 400+ integrations
+- 📈 **GoHighLevel (GHL)** - All-in-one CRM & marketing automation platform
+- 🔌 **RESTful APIs** - Custom backend integrations
 
 **Automation Focus:**
-- Workflow automation
+- Workflow automation with n8n
 - AI-assisted development
+- CRM automation (GoHighLevel)
 - Intelligent data processing
 
 ### Core Languages
@@ -115,7 +130,7 @@ A comprehensive multi-role system featuring:
 
 - **Frontend:** React, Vue, TypeScript, Next.js, Nuxt, Tailwind, GSAP  
 - **Backend:** PHP (Laravel, PDO), Node.js, MySQL, REST APIs  
-- **AI & Automation:** OpenRouter, Groq, OpenCode, workflow automation  
+- **AI & Automation:** OpenRouter, Groq, n8n, GoHighLevel, workflow automation  
 - **Specialties:** Multi‑role systems, interactive UI, creative development  
 
 > Full‑stack developer focused on clean code, smooth UX, and AI‑powered workflows.
@@ -140,17 +155,27 @@ A comprehensive multi-role system featuring:
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://twitter.com/wardseverything" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="50" />
-  </a>
-  <a href="https://discord.gg/RYhYaxjE" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="40" width="50" />
-  </a>
-  <a href="https://github.com/Waards" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="50" />
-  </a>
-</p>
+<table align="left">
+  <tr>
+    <td align="center">
+      <a href="https://twitter.com/wardseverything" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://discord.gg/RYhYaxjE" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="40" height="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Waards" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br clear="left"/>
 
 ---
 
@@ -173,7 +198,23 @@ A comprehensive multi-role system featuring:
 - OpenRouter API integration for multi-model inference
 - Groq API implementation for high-speed LLM responses
 - Custom REST APIs for system integration
-- Workflow automation pipelines
+- Workflow automation with n8n
+- CRM automation pipelines with GoHighLevel
+
+### 📁 Top Repositories (by activity)
+
+| Repository | Description |
+|------------|-------------|
+| [**Waards**](https://github.com/Waards/Waards) | Profile README repo |
+| [**gittestair**](https://github.com/Waards/gittestair) | Testing deployment playground |
+| [**Hotel Management Software**](https://github.com/Waards/Hotel-Management-Software) | Hotel management system in PHP |
+| [**ECHO-LOGIN**](https://github.com/Waards/ECHO-LOGIN) | Authentication system |
+| [**bot**](https://github.com/Waards/bot) | Automation bot projects |
+| [**works**](https://github.com/Waards/works) | Work-related experiments |
+| [**connect**](https://github.com/Waards/connect) | TypeScript connectivity tools |
+| [**craft**](https://github.com/Waards/craft) | TypeScript creative coding |
+| [**vas**](https://github.com/Waards/vas) | TypeScript utilities |
+| [**bolt.diy**](https://github.com/Waards/bolt.diy) | Fork of stackblitz-labs/bolt.diy |
 
 ---
 
