@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Currently studying at **CvSU**
+- 🎓 Graduated from **CvSU**
 - 💼 Building **CIANAN** - A full-stack multi-role web application (Stock Management + HR System)
 - 🌱 Constantly learning and expanding my tech stack
 - 🎨 Love creating playful, interactive UI elements and animations
