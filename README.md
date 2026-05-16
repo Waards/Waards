@@ -19,7 +19,7 @@
 - 🌱 Constantly learning and expanding my tech stack
 - 🎨 Love creating playful, interactive UI elements and animations
 - 🤖 Passionate about AI integration and workflow automation
-- 📫 Reach me at **Sjosafatvillegas@gmail.com**
+- 📫 Reach me at **Wardswannabe@gmail.com**
 - ⚡ Fun fact: **I combine serious development with creative flair - my dashboards have desk buddy pets!**
 
 <br clear="right"/>
@@ -213,15 +213,15 @@ A comprehensive multi-role system featuring:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Waards&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Waards&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Waards&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Waards&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waards&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waards&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 ---
@@ -273,21 +273,6 @@ A comprehensive multi-role system featuring:
 - Custom REST APIs for system integration
 - Workflow automation with n8n
 - CRM automation pipelines with GoHighLevel
-
-### 📁 Top Repositories (by activity)
-
-| Repository | Description |
-|------------|-------------|
-| [**Waards**](https://github.com/Waards/Waards) | Profile README repo |
-| [**gittestair**](https://github.com/Waards/gittestair) | Testing deployment playground |
-| [**Hotel Management Software**](https://github.com/Waards/Hotel-Management-Software) | Hotel management system in PHP |
-| [**ECHO-LOGIN**](https://github.com/Waards/ECHO-LOGIN) | Authentication system |
-| [**bot**](https://github.com/Waards/bot) | Automation bot projects |
-| [**works**](https://github.com/Waards/works) | Work-related experiments |
-| [**connect**](https://github.com/Waards/connect) | TypeScript connectivity tools |
-| [**craft**](https://github.com/Waards/craft) | TypeScript creative coding |
-| [**vas**](https://github.com/Waards/vas) | TypeScript utilities |
-| [**bolt.diy**](https://github.com/Waards/bolt.diy) | Fork of stackblitz-labs/bolt.diy |
 
 ---
 
