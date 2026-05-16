@@ -19,7 +19,7 @@
 - 🌱 Constantly learning and expanding my tech stack
 - 🎨 Love creating playful, interactive UI elements and animations
 - 🤖 Passionate about AI integration and workflow automation
-- 📫 Reach me at **Wardswannabe@gmail.com**
+- 📫 Reach me at **Sjosafatvillegas@gmail.com**
 - ⚡ Fun fact: **I combine serious development with creative flair - my dashboards have desk buddy pets!**
 
 <br clear="right"/>
