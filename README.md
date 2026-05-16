@@ -213,15 +213,7 @@ A comprehensive multi-role system featuring:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Waards&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Waards&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waards&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 ---
