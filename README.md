@@ -6,7 +6,7 @@
 
 ### Full-Stack Developer | API Integration Specialist | Automation Enthusiast
 
-#### 🇵🇭 Based in the Philippines
+#### 🇵🇭 Based in Silang, Cavite, Philippines
 
 </div>
 
@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Graduated from **CvSU**
+- 🎓 Graduated from **CvSU** | BS Information Technology
 - 💼 Building **CIANAN** - A full-stack multi-role web application (Stock Management + HR System)
 - 🌱 Constantly learning and expanding my tech stack
 - 🎨 Love creating playful, interactive UI elements and animations
@@ -23,6 +23,79 @@
 - ⚡ Fun fact: **I combine serious development with creative flair - my dashboards have desk buddy pets!**
 
 <br clear="right"/>
+
+---
+
+## 📄 Resume
+
+### 🧑‍💼 Summary
+
+Virtual Assistant, Web Developer, and Go High Level (GHL) Specialist with experience in admin tasks, tech support, customer service, and full-stack development. Skilled in front-end and back-end tools like HTML, CSS, JavaScript, React, Vue, PHP, and MySQL. Experienced in medical VA duties, scheduling, CRM tools, automation, and remote client communication. Proficient in Go High Level funnel building, website design, and workflow automation to help businesses streamline processes and boost online presence.
+
+---
+
+### 💼 Work Experience
+
+**Go High Level Specialist — Direct Client | Remote** `05/2025 – Present`
+- Designed and customized websites and landing pages for client branding
+- Built and optimized sales funnels to capture leads and drive conversions
+- Set up automations and workflows for follow-ups, reminders, and lead nurturing
+- Managed pipelines, calendars, and CRM integrations to streamline client operations
+
+**Medical Virtual Assistant | Remote** `09/2024 – 06/2025`
+- Built and optimized sales funnels to capture leads and drive conversions
+- Designed and customized websites and landing pages for client branding
+- Set up automations and workflows for follow-ups, reminders, and lead nurturing
+
+**Virtual Assistant — Direct Client | Remote** `07/2023 – 01/2024`
+- Managed emails, schedules, and admin tasks
+- Handled calendar and follow-ups for the client
+- Assisted with research, reports, and online tools
+
+**Executive Virtual Assistant | Remote** `02/2021 – 05/2022`
+- Managed executive calendars, CRM data, and admin tasks
+- Assisted in project coordination and basic reports
+- Handled email and client communication
+
+**Tech Support Representative | Remote** `06/2020 – 09/2021`
+- Provided support for software and tech issues
+- Resolved concerns via phone, email, and live chat
+- Escalated complex cases and followed up on solutions
+
+**Full-Stack Web Developer (Freelance) | Remote** `05/2019 – 01/2020`
+- Built websites using HTML, CSS, JS, React, Vue, PHP, MySQL
+- Optimized site performance, mobile responsiveness, and security
+- Worked directly with clients on full project cycles
+
+---
+
+### 🛠️ Skills
+
+**Technical**
+- HTML, CSS, JavaScript, React, Vue, Tailwind CSS
+- EHR Systems, Medical Billing, HIPAA Compliance
+- CRM Tools, Admin Support, Scheduling
+- Funnel Building & Optimization
+- Website & Landing Page Design
+- Calendar & Appointment Scheduling
+- Form & Survey Creation
+
+**Soft Skills**
+- Communication · Time Management · Organization · Problem Solving
+
+---
+
+### 🎓 Education
+
+**BS in Information Technology** — 4th Year Undergraduate | Senior High School Graduate
+Cavite State University (CvSU)
+
+---
+
+### 🌐 Languages
+- **English** — Upper Intermediate (C1)
+
+---
 
 ## 🚀 Current Projects
 
